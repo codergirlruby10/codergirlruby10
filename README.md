@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codergirlruby10
-- 👀 I’m interested in Android Development, Java, Being a awesome mommy, Working out and being healthy.
+- 👀 I’m interested in Android Development, Java, Being an awesome mommy, Working out and being healthy.
 - 🌱 I’m currently learning Java data structures and algorithms
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ruby.alesi87@gmail.com
