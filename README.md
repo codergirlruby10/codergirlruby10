@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codergirlruby10
 - 👀 I’m interested in  C++, Embedded C++, Android Development, Being an awesome mommy, Working out and being healthy.
-- 🌱 I’m currently learning Java data structures and algorithms
+- 🌱 I’m currently learning C++ data structures and algorithms
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ruby.alesi87@gmail.com
 
